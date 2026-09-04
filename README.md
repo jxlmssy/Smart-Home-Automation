@@ -9,5 +9,6 @@ You can control a variety of devices from a central hub or app, sending commands
 # UML
 
 Smart Home Automation
-<img width="2214" height="1260" alt="Blank diagram" src="https://github.com/user-attachments/assets/ebd6ab35-9bc9-4ee7-9761-a74b365fa406" />
+<img width="2214" height="1260" alt="Blank diagram (1)" src="https://github.com/user-attachments/assets/e9dd6d9d-7c17-42d3-b8e3-f3c944d97cc4" />
+
 
