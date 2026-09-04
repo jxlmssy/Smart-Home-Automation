@@ -1,0 +1,10 @@
+public class Thermostat {
+
+    public void increaseTemperature() {
+        System.out.println("Temperature increased by 1 degree.");
+    }
+
+    public void decreaseTemperature() {
+        System.out.println("Temperature decreased by 1 degree.");
+    }
+}
